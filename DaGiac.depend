@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1713268336 source:d:\oop-practice\buoi3\dagiac\main.cpp
+	<iostream>
+	"Diem.h"
+	"DaGiac.h"
+	"cmath"
+
+1713268684 d:\oop-practice\buoi3\dagiac\include\diem.h
+
+1713268435 d:\oop-practice\buoi3\dagiac\include\dagiac.h
+	"Diem.h"
+
+1713268698 source:d:\oop-practice\buoi3\dagiac\src\diem.cpp
+	"Diem.h"
+	<cmath>
+	<iostream>
+

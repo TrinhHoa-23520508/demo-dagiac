@@ -1,9 +1,13 @@
 #include <iostream>
-
+#include "Diem.h"
+#include "DaGiac.h"
+#include "cmath"
 using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
+    DaGiac x;
+    x.NhapDaGiac();
+    x.XuatDaGiac();
     return 0;
 }
