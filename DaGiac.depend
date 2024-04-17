@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1713268336 source:d:\oop-practice\buoi3\dagiac\main.cpp
+1713319591 source:d:\oop-practice\buoi3\dagiac\main.cpp
 	<iostream>
 	"Diem.h"
 	"DaGiac.h"
@@ -13,5 +13,10 @@
 1713268698 source:d:\oop-practice\buoi3\dagiac\src\diem.cpp
 	"Diem.h"
 	<cmath>
+	<iostream>
+
+1713319471 source:d:\oop-practice\buoi3\dagiac\src\dagiac.cpp
+	"DaGiac.h"
+	"Diem.h"
 	<iostream>
 
